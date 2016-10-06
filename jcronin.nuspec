@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jcroninautodeploy</id>
+    <version>1.0</version>
+    <authors>Josh Cronin</authors>
+    <owners>Josh Cronin</owners>
+    <iconUrl>https://cdn.positive.co.uk/favicon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A load of files</description>
+    <tags>Files josh</tags>
+  </metadata>
+</package>
